@@ -34,3 +34,27 @@ Os testes unitários estão localizados no diretório `sample_tests`. Eles cobre
 
 ```bash
 python -m unittest sample_tests.test_sistema_entrega_comida
+```
+
+## Como Usar
+
+1. **Clone o repositório:**
+```bash
+git clone https://github.com/luc4srios/Sistema-Entrega-Comida-Python
+```
+2. **Navegue até o diretório do projeto:**
+```bash
+cd Sistema-Entrega-Comida-Python
+```
+3. **Execute o código principal:**
+```bash
+python src/sistema_entrega_comida.py
+```
+4. **Execute os testes:**
+```bash
+python -m unittest sample_tests.test_sistema_entrega_comida
+```
+
+## Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar problemas ou propor melhorias. Se você deseja contribuir com código, por favor, abra um pull request.
